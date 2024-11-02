@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Miftakul Salam</h1>
 <h3 align="center">Building visually compelling and efficient front-end solutions that bring ideas to life.</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadmiftaa&show_icons=true&locale=en&layout=compact" alt="muhammadmiftaa" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadmiftaa&show_icons=true&locale=en" alt="muhammadmiftaa" /></p>
+![](https://github-readme-stats.vercel.app/api?username=MuhammadMiftaa&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMiftaa&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMiftaa&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 - 🌱 I’m currently learning **Fullstack Golang & AI in Ruangguru CAMP**
 
