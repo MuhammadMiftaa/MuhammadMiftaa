@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/muhammad mifta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad mifta" height="30" width="40" /></a>
 <a href="https://instagram.com/muhammadmiftaaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadmiftaaa_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/muhammadmiftaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muhammadmiftaa" height="30" width="40" /></a>
+<a href="https://www.codewars.com/users/MuhammadMiftaa" target="blank"><img align="center" src="https://repository-images.githubusercontent.com/584612363/dc5a8b7c-1706-4ab9-9ac0-6e7b834a90fd" alt="muhammadmiftaa" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/muhammadmiftaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhammadmiftaa" height="30" width="40" /></a>
 </p>
 
