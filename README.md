@@ -2,7 +2,7 @@
 [![](https://visitcount.itsvg.in/api?id=MuhammadMiftaa&icon=6&color=0)](https://visitcount.itsvg.in)
 
 # 🥏 About Me:
-⚔️ I’m currently learning <b>Fullstack Golang & AI in Ruangguru CAMP</b><br><br>👨‍💻 All of my projects are available at https://muhammad-mifta.vercel.app<br><br>📄 Know about me https://linktr.ee/muhammadmifta
+⚔️ I’m currently learning <b>Fullstack Golang & AI in Ruangguru CAMP</b><br><br>👨‍💻 All of my projects are available at https://muhammad-mifta.vercel.app<br><br>📄 Know about me https://muhammad-mifta.vercel.app
 
 
 ## 🌐 Socials:
