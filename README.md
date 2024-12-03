@@ -16,7 +16,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMiftaa&theme=blue_navy&hide_border=false)<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadMiftaa&radius=16&theme=react-dark&title_color=82aaff&color=82aaff&line=82aaff&bg_color=000000&area=true&order=5" height="auto" alt="by MuhammadMiftaa"/> 
-<div align="center">
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MuhammadMiftaa/MuhammadMiftaa/blob/main/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/MuhammadMiftaa/MuhammadMiftaa/blob/main/github-contribution-grid-snake.svg" />
@@ -24,7 +24,7 @@
   </picture>
 </div>
 <br>
-<div align="left">
+<div align="left"> -->
   
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MuhammadMiftaa&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
