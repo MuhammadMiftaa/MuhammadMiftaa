@@ -3,7 +3,7 @@
 
 # 🥏 About Me:
 ⚔️ I’m currently learning <b>Fullstack Golang & AI in Ruangguru CAMP</b><br><br>👨‍💻 All of my projects are available at https://muhammad-mifta.vercel.app<br><br>📄 Know about me https://linktr.ee/muhammadmifta 
-
+ 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhammadmiftaaa_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-mifta) [![Leetcode](https://img.shields.io/badge/Leetcode-grey?style=flat&logo=leetcode)](https://leetcode.com/u/muhammadmiftaa) [![Codewars](https://img.shields.io/badge/Codewars-black?style=flat&logo=codewars)](https://www.codewars.com/users/MuhammadMiftaa)
@@ -15,6 +15,17 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMiftaa&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMiftaa&theme=blue_navy&hide_border=false)<br/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadMiftaa&radius=16&theme=react-dark&title_color=82aaff&color=82aaff&line=82aaff&bg_color=000000&area=true&order=5" height="auto" alt="by MuhammadMiftaa"/> 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MuhammadMiftaa/MuhammadMiftaa/blob/main/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/MuhammadMiftaa/MuhammadMiftaa/blob/main/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/MuhammadMiftaa/MuhammadMiftaa/blob/main/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+</div>
+<br>
+<div align="left">
+  
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MuhammadMiftaa&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
