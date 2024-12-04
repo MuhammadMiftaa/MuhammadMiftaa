@@ -26,8 +26,8 @@
 <br>
 <div align="left"> -->
   
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MuhammadMiftaa&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
+<!-- ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MuhammadMiftaa&limit=5&theme=blue_navy&combine_all_yearly_contributions=true) -->
 
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=Ten%20thousand%20hours%20is%20the%20magic%20number%20of%20greatness&author=Malcolm%20Gladwell)
 
