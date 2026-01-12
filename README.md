@@ -2,7 +2,7 @@
 [![](https://visitcount.itsvg.in/api?id=MuhammadMiftaa&icon=6&color=0)](https://visitcount.itsvg.in)
 
 # 🥏 About Me:
-⚔️ I’m currently learning <b>at Informatic Engineering Universitas Negeri Surabaya</b><br><br>👨‍💻 All of my projects are available at [https://www.miftdev.my.id/](https://miv.best/)<br><br>📄 Know about me https://linktr.ee/muhammadmifta 
+⚔️ I’m currently learning <b>at Informatic Engineering Universitas Negeri Surabaya</b><br><br>👨‍💻 All of my projects are available at [https://miv.best/](https://miv.best/)<br><br>📄 Know about me https://linktr.ee/muhammadmifta 
  
 
 ## 🌐 Socials:
