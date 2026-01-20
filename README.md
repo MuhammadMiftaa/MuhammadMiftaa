@@ -76,7 +76,7 @@
 
 ---
 
-# 💭 Random Dev Quote
+# 💭 Quote
 
 <div align="center">
 
